@@ -26,5 +26,8 @@
 <a href="https://youtube.com/@siddico?si=JpRLUakrsQk55LK0" rel="nofollow">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="LightAcademy1" height="30" width="40" style="max-width: 100%;">
 </a>
+    <a href="https://wa.me/201227897361" target="_blank" rel="nofollow">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Chat on WhatsApp" height="30" width="40" style="max-width: 100%;">
+</a>
 </p><hr>
 <p dir="auto"></p>
