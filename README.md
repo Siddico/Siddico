@@ -30,4 +30,26 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Chat on WhatsApp" height="30" width="40" style="max-width: 100%;">
 </a>
 </p><hr>
-<p dir="auto"></p>
+<p align="left" dir="auto">
+    <a href="https://en.cppreference.com/w/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="max-width: 100%;">
+    </a>
+    <a href="https://dart.dev" rel="nofollow">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" style="max-width: 100%;">
+    </a>
+    <a href="https://flutter.dev" rel="nofollow">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="max-width: 100%;">
+    </a>
+    <a href="https://git-scm.com/" rel="nofollow">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="max-width: 100%;">
+    </a>
+    <a href="https://www.java.com" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="max-width: 100%;">
+    </a>
+    <a href="https://www.python.org" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" rel="nofollow">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Object_oriented_programming.svg" alt="OOP" width="40" height="40" style="max-width: 100%;">
+    </a>
+</p>
