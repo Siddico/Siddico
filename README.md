@@ -1,55 +1,134 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Siddico</h1><a id="user-content-hi--im-Siddico" class="anchor" aria-label="Permalink: Hi 👋, I'm Siddico" href="#hi--im-Siddico"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Mobile app Developer with a knack for teaching other programming</h3><a id="user-content-mobile-app-developer-with-a-knack-for-teaching-other-programming" class="anchor" aria-label="Permalink: Mobile app Developer with a knack for teaching other programming" href="#mobile-app-developer-with-a-knack-for-teaching-other-programming"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-
-<ul dir="auto">
-<li>
-<p dir="auto">🌱 I’m currently learning <strong>FLUTTER Development</strong></p>
-</li>
-<li>
-<p dir="auto">💬 Ask me about <strong>anything</strong></p>
-</li>
-<li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:www.mohammedahmedmohammedsiddiq@gmail.com">www.mohammedahmedmohammedsiddiq@gmail.com</a></strong></p>
-</li>
-<li>
-<p dir="auto">⚡ Fun fact <strong>always learning</strong></p>
-</li>
-</ul>
-<div class="markdown-heading" dir="auto"><h3 align="left" class="heading-element" dir="auto">Connect with me:</h3><a id="user-content-connect-with-me" class="anchor" aria-label="Permalink: Connect with me:" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="left" dir="auto">
-<a href="https://www.linkedin.com/in/mohammedsiddico/" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-ahmed-mohammed-siddiq" height="30" width="40" style="max-width: 100%;">
-</a>
-<a href="https://www.facebook.com/profile.php?id=100055403727178" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharwat samy" height="30" width="40" style="max-width: 100%;">
-</a>
-<a href="https://youtube.com/@siddico?si=JpRLUakrsQk55LK0" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="LightAcademy1" height="30" width="40" style="max-width: 100%;">
-</a>
-    <a href="https://wa.me/201227897361" target="_blank" rel="nofollow">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Chat on WhatsApp" height="30" width="40" style="max-width: 100%;">
-</a>
-</p><hr>
-<p align="left" dir="auto">
-    <a href="https://en.cppreference.com/w/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://dart.dev" rel="nofollow">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://flutter.dev" rel="nofollow">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://git-scm.com/" rel="nofollow">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.java.com" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.python.org" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" rel="nofollow">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Object_oriented_programming.svg" alt="OOP" width="40" height="40" style="max-width: 100%;">
-    </a>
+<!-- ═══════════════ HEADER ═══════════════ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F1A,50:7C4DFF,100:00E5FF&text=SIDDICO&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Mohammed%20Siddiq%20%E2%80%A2%20Flutter%20Developer%20%C2%B7%20AI%20Engineer&descSize=18&descAlignY=60" alt="SIDDICO banner" />
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Siddico;Mobile+Developer+%E2%80%94+Flutter+%26+Dart;AI+Enthusiast+%E2%80%94+Deep+Learning+%26+RAG;Computer+Science+Student+%7C+Class+of+2026;I+build+apps+that+think." alt="Typing animation" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-0B0F1A?style=for-the-badge&logo=flutter&logoColor=00E5FF" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0B0F1A?style=for-the-badge&logo=dart&logoColor=00E5FF" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-0B0F1A?style=for-the-badge&logo=python&logoColor=7C4DFF" alt="Python" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-0B0F1A?style=for-the-badge&logo=tensorflow&logoColor=7C4DFF" alt="AI / ML" />
+  <img src="https://img.shields.io/badge/Class%20of-2026-0B0F1A?style=for-the-badge&logoColor=white&color=7C4DFF" alt="Class of 2026" />
+</p>
+
+<br/>
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## ✦ About Me
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  👨‍💻  Mobile app developer with a knack for teaching code    │
+│  🎓  Faculty of Computers & AI — Beni-Suef University         │
+│  🧠  Building intelligent apps: Flutter × Deep Learning       │
+│  🚀  Graduating with the Class of 2026                        │
+│  🌱  Always learning — always shipping                        │
+└──────────────────────────────────────────────────────────────┘
+```
+
+I design and build mobile products with **Flutter**, and I bring **AI** into them — from clinical decision-support to medical-image classification. Under my personal brand **SIDDICO**, I work as a software engineer, mobile developer, AI enthusiast, data scientist and creative designer.
+
+<br/>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## ✦ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,java,nodejs,express,git,github,vercel,firebase,figma&theme=dark&perline=12" alt="Tech stack icons" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>📱 Mobile</b><br/><sub>Flutter · Dart<br/>Clean Architecture<br/>Riverpod</sub></td>
+    <td align="center" width="25%"><b>🧠 AI / ML</b><br/><sub>Python · Deep Learning<br/>MobileNetV3 · CBAM<br/>RAG</sub></td>
+    <td align="center" width="25%"><b>⚙️ Backend &amp; Deploy</b><br/><sub>Node.js · Express<br/>Vercel<br/>Hugging Face</sub></td>
+    <td align="center" width="25%"><b>🎨 Design &amp; Core</b><br/><sub>Figma · UI/UX<br/>C++ · Java · OOP<br/>Git</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## ✦ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Brain Guard</h3>
+      <sub><b>Graduation Project</b></sub>
+      <p>AI-powered stroke prediction and health-monitoring platform, built with a team. I led the Flutter app (Clean Architecture + Riverpod), deployed the AI model on Hugging Face, and connected everything through a Node.js/Express proxy on Vercel.</p>
+      <img src="https://img.shields.io/badge/Flutter-0B0F1A?style=flat-square&logo=flutter&logoColor=00E5FF" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Riverpod-0B0F1A?style=flat-square&logoColor=7C4DFF" alt="Riverpod" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-0B0F1A?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/Node.js-0B0F1A?style=flat-square&logo=nodedotjs&logoColor=00E5FF" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Vercel-0B0F1A?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 Probably RAG</h3>
+      <sub><b>Hackathon Project</b></sub>
+      <p>A retrieval-augmented generation (RAG) clinical decision-support assistant for cardiovascular disease — grounding answers in medical knowledge to support faster, better-informed decisions.</p>
+      <img src="https://img.shields.io/badge/RAG-0B0F1A?style=flat-square&logoColor=7C4DFF" alt="RAG" />
+      <img src="https://img.shields.io/badge/LLM-0B0F1A?style=flat-square&logoColor=00E5FF" alt="LLM" />
+      <img src="https://img.shields.io/badge/Python-0B0F1A?style=flat-square&logo=python&logoColor=7C4DFF" alt="Python" />
+      <img src="https://img.shields.io/badge/Clinical%20AI-0B0F1A?style=flat-square&logoColor=00E5FF" alt="Clinical AI" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 MobileNetV3 + CBAM — Medical Imaging</h3>
+      <sub><b>Deep Learning Research</b></sub>
+      <p>Comparing MobileNetV3-Large with and without CBAM attention modules for breast-cancer classification on mammograms (CBIS-DDSM), then extending the approach to lung and colon histopathology (LC25000).</p>
+      <img src="https://img.shields.io/badge/MobileNetV3-0B0F1A?style=flat-square&logo=tensorflow&logoColor=7C4DFF" alt="MobileNetV3" />
+      <img src="https://img.shields.io/badge/CBAM-0B0F1A?style=flat-square&logoColor=00E5FF" alt="CBAM" />
+      <img src="https://img.shields.io/badge/CBIS--DDSM-0B0F1A?style=flat-square&logoColor=7C4DFF" alt="CBIS-DDSM" />
+      <img src="https://img.shields.io/badge/Kaggle-0B0F1A?style=flat-square&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>✂️ QCut</h3>
+      <sub><b>Client Project</b></sub>
+      <p>A barbershop booking app concept delivered with full consultant-style documentation — from product scope to user flows — for a real client.</p>
+      <img src="https://img.shields.io/badge/Flutter-0B0F1A?style=flat-square&logo=flutter&logoColor=00E5FF" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Booking%20App-0B0F1A?style=flat-square&logoColor=7C4DFF" alt="Booking App" />
+      <img src="https://img.shields.io/badge/UI%2FUX-0B0F1A?style=flat-square&logo=figma&logoColor=00E5FF" alt="UI/UX" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ WHAT I'M DOING ═══════════════ -->
+## ✦ Right Now
+
+| | |
+|---|---|
+| 🎓 | Wrapping up my degree at Beni-Suef University — **Class of 2026** |
+| 📱 | Shipping Flutter apps with clean, scalable architecture |
+| 🧠 | Exploring attention mechanisms, RAG and AI for healthcare |
+| 🎥 | Teaching programming on [YouTube](https://youtube.com/@siddico?si=JpRLUakrsQk55LK0) |
+
+<br/>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## ✦ Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammedsiddico/"><img src="https://img.shields.io/badge/LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@siddico?si=JpRLUakrsQk55LK0"><img src="https://img.shields.io/badge/YouTube-0B0F1A?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+  <a href="https://wa.me/201227897361"><img src="https://img.shields.io/badge/WhatsApp-0B0F1A?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" /></a>
+  <a href="mailto:mohammedahmedmohammedsiddiq@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F1A?style=for-the-badge&logo=gmail&logoColor=7C4DFF" alt="Email" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100055403727178"><img src="https://img.shields.io/badge/Facebook-0B0F1A?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=7C4DFF&center=true&vCenter=true&width=500&height=30&lines=%E2%9A%A1+Fun+fact%3A+always+learning;Let's+build+something+great+together." alt="Footer typing animation" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:7C4DFF,100:0B0F1A&section=footer&reversal=true" alt="footer wave" />
